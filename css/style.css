@@ -1,0 +1,22 @@
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+p{
+    background-color: blue;
+     margin: 0px;
+    
+}
+ 
+.nav{
+    background-color: chartreuse;
+    color: cyan;
+    margin-bottom: 10px;
+}
+.nav img{
+    border-radius: 100px;
+    padding: 5px 0 10px 0;
+     
+}
